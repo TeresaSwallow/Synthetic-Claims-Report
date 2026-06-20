@@ -1,5 +1,5 @@
 # Synthetic-Claims-Report
-Healthcare claims analysis project using Excel to summarize payment outcomes, visualize claim status distributions, and communicate key findings.
+Excel-based analysis of synthetic healthcare claims data, including data transformation, Pivot Tables, visualization, and claim status reporting.
 
 -------------------------------------------------------
 
